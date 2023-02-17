@@ -1,7 +1,7 @@
 2048 Game
 ==========
 
-![](https://play-lh.googleusercontent.com/bZregCeEpzMwRoocLnsYb4Te-vPPHkW1k5H1xsQ3qK9yE00fixpWu5fNsUz3ut2IiDHn)
+![](https://image.winudf.com/v2/image1/Y29tLnRwY3N0bGQudHdvemVyb2dhbWVfaWNvbl8xNTY2OTk2MzM1XzAxOA/icon.png?fakeurl=1&h=240&type=webp)
 
 # Index
 
