@@ -19,7 +19,7 @@
 
 # Project Description
 
-This project was developed as part of the Integrative Project course in college, which was associated with the practice of data structures in the C language. Our group chose the theme of library and created a library management system. Our objective was to ensure the security of both customers and employees, so we used encryption to store all data. We also created a payment system, which, even without using real transactions, we developed a system using fake cards. Also the book are controlled by each user without affect any other.
+This project was developed as part of a studing Python language. This provide a really good game and I learn new python librarys and functions.
 
 # 📁 Access the Project
 
@@ -33,17 +33,7 @@ This project was developed as part of the Integrative Project course in college,
 
 # ▶ Run the Project
 
-- `To compile the programm, use:`
-
-```console
-gcc main.c -o main -lm
-```
-
-- `To execute the programm, use:`
-
-```console
-./main
-```
+- `To compile the programm, use a python interpreter, I Recommended the PyCharm`
 
 # 👨‍💻 Authors
 
