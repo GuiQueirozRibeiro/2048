@@ -33,7 +33,7 @@ This project was developed as part of a studing Python language. This provide a 
 
 # ▶ Run the Project
 
-- `To compile the programm, use a python interpreter, I Recommended the PyCharm`
+- `To compile and run the programm, use a python interpreter, I Recommended the PyCharm`
 
 # 👨‍💻 Authors
 
