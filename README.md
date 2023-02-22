@@ -23,7 +23,7 @@ This project was developed as part of a studing Python language. This provide a 
 
 # 📁 Access the Project
 
-**Is found in Github: "https://github.com/Gui1111RIbeiro/2048"**
+**Is found in Github: "https://github.com/GuiQueirozRibeiro/2048"**
 
 # 🔨 Project Features
 
