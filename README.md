@@ -27,7 +27,7 @@ This project was developed as part of a studing Python language. This provide a 
 
 # 🔨 Project Features
 
-- `Feature 1`: use the arrow keys to move 
+- `Feature 1`: use the arrow keys to move
 - `Feature 2`: reproduce a song while you playing
 - `Feature 3`: restart when you lost
 
