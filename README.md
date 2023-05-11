@@ -1,43 +1,43 @@
-2048 Game
+2048 Jogo
 ==========
 
 ![](https://image.winudf.com/v2/image1/Y29tLnRwY3N0bGQudHdvemVyb2dhbWVfaWNvbl8xNTY2OTk2MzM1XzAxOA/icon.png?fakeurl=1&h=240&type=webp)
 
-# Index
+# Indíce
 
-* [Index](#index)
-* [Project Status](#project-status)
-* [Project Description](#project-description)
-* [Access the Project](#-access-the-project)
-* [Project Features](#-project-features)
-* [Run the Project](#-run-the-project)
-* [Authors](#-authors)
+* [Indíce](#Indíce)
+* [Status do Projeto](#status-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
+* [Características do Projeto](#-Características do Projeto)
+* [Executar o projeto](#-Executar-o-projeto)
+* [Autores](#-Autores)
 
-# Project Status
+Status do Projeto
 
-![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
+![](https://img.shields.io/badge/Status-Sucesso-brightgreen)
 
-# Project Description
+# Descrição do Projeto
 
-This project was developed as part of a studing Python language. This provide a really good game and I learn new python librarys and functions.
+Este projeto foi desenvolvido como parte do estudo na linguagem Python. Ele oferece um jogo muito bom e eu aprendi novas bibliotecas e funções do Python com ele.
 
-# 📁 Access the Project
+# 📁 Acesso ao Projeto
 
-**Is found in Github: "https://github.com/GuiQueirozRibeiro/2048"**
+**É encontrado no Github: "https://github.com/GuiQueirozRibeiro/2048"**
 
-# 🔨 Project Features
+# 🔨 Características do Projeto
 
-- `Feature 1`: use the arrow keys to move
-- `Feature 2`: reproduce a song while you playing
-- `Feature 3`: restart when you lost
+- `Característica 1`: use as setas do teclado para se mover
+- `Característica 2`: reproduza uma música enquanto joga
+- `Característica 3`: reinicie quando perder
 
-# ▶ Run the Project
+# ▶ Executar o projeto
 
-- `To compile and run the programm, use a python interpreter, I Recommended the PyCharm`
+- `Para compilar e executar o programa, use um interpretador de Python, Eu recomendo o PyCharm.`
 
-# 👨‍💻 Authors
+# 👨‍💻 Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/Gui1111RIbeiro)
 | :---: |
 
-### End
+### Fim
