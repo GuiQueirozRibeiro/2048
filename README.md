@@ -5,13 +5,13 @@
 
 # Indíce
 
-* [Indíce](#Indíce)
+* [Indíce](#indíce)
 * [Status do Projeto](#status-do-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Acesso ao Projeto](#-acesso-ao-projeto)
-* [Características do Projeto](#-Características-do-projeto)
-* [Executar o projeto](#-Executar-o-projeto)
-* [Autores](#-Autores)
+* [Funcionalidades do Projeto](#-funcionalidades-do-projeto)
+* [Executar o projeto](#-executar-o-projeto)
+* [Autores](#-autores)
 
 Status do Projeto
 
@@ -25,11 +25,11 @@ Este projeto foi desenvolvido como parte do estudo na linguagem Python. Ele ofer
 
 **É encontrado no Github: "https://github.com/GuiQueirozRibeiro/2048"**
 
-# 🔨 Características do Projeto
+# 🔨 Funcionalidades do Projeto
 
-- `Característica 1`: use as setas do teclado para se mover
-- `Característica 2`: reproduza uma música enquanto joga
-- `Característica 3`: reinicie quando perder
+- `Funcionalidade 1`: use as setas do teclado para se mover
+- `Funcionalidade 2`: reproduza uma música enquanto joga
+- `Funcionalidade 3`: reinicie quando perder
 
 # ▶ Executar o projeto
 
