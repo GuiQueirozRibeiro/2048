@@ -15,7 +15,7 @@
 
 # Status do Projeto
 
-![](https://img.shields.io/badge/Status-Sucesso-brightgreen)
+![Badge Success](https://img.shields.io/badge/Status-Sucesso-brightgreen?style=for-the-badge)
 
 # Descrição do Projeto
 
@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte do estudo na linguagem Python. Ele ofer
 
 # 📁 Acesso ao Projeto
 
-**É encontrado no Github: "https://github.com/GuiQueirozRibeiro/2048"**
+**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/2048"**
 
 # 🔨 Funcionalidades do Projeto
 
