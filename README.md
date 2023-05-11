@@ -13,7 +13,7 @@
 * [Executar o projeto](#-executar-o-projeto)
 * [Autores](#-autores)
 
-Status do Projeto
+# Status do Projeto
 
 ![](https://img.shields.io/badge/Status-Sucesso-brightgreen)
 
