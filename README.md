@@ -3,9 +3,9 @@
 
 ![](https://image.winudf.com/v2/image1/Y29tLnRwY3N0bGQudHdvemVyb2dhbWVfaWNvbl8xNTY2OTk2MzM1XzAxOA/icon.png?fakeurl=1&h=240&type=webp)
 
-# Indíce
+# Índice
 
-* [Indíce](#indíce)
+* [Índíce](#índíce)
 * [Status do Projeto](#status-do-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Acesso ao Projeto](#-acesso-ao-projeto)
